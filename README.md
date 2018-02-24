@@ -1,6 +1,8 @@
-# Blockinger_gyro
+# Blockinger Gyro
 
-Ideas for this fork: 
+Fork from: https://github.com/vocollapse/Blockinger
+
+Ideas: 
 * Make tetris game steered by onboard gyroscope module
 * Adapt game to Material Design
 * Learn more about interacting with phone hardware in Android Java
